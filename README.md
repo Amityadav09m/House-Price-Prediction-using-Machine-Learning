@@ -2,11 +2,15 @@
 
 This project predicts house prices based on features like area, number of bedrooms, bathrooms, and floors.
 
+---
+
 ## 📊 Features Used:
 - Area
 - Bedrooms
 - Bathrooms
 - Floors
+
+---
 
 ## ⚙️ Tech Stack:
 - Python
@@ -14,8 +18,12 @@ This project predicts house prices based on features like area, number of bedroo
 - NumPy
 - Scikit-learn
 
+---
+
 ## 🤖 Model:
 Linear Regression
 
-## 🚀 Goal:
+---
+
+## 🎯 Goal:
 To predict house prices using machine learning techniques.
